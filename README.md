@@ -6,9 +6,9 @@ resnet50 is also giving less accuracy as compared to vgg19.<br/>
 vgg19 architecture is as follows - 
 
 
-![](Images/vgg19.png)
+![](vgg19.png)
 
 
 Detailed architecture of vgg19 along with other great models.
 
-![](Images/vgg191.png)
+![](vgg191.png)
